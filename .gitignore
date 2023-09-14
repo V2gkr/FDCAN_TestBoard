@@ -5,3 +5,4 @@ __Previews/
 *Previews/
 *.SchDocPreview
 __Previews/BLDC_test.SchDocPreview
+*.PrjPcbStructure
