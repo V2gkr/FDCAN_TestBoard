@@ -1,8 +1,10 @@
 History/
-Project Logs*/
+Project*/
 __*/
 __Previews/
 *Previews/
 *.SchDocPreview
 __Previews/BLDC_test.SchDocPreview
 *.PrjPcbStructure
+*.PcbLib
+*.SchLib
